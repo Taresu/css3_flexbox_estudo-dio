@@ -1,6 +1,6 @@
 # Estudo de CSS3 - Flexbox
 
-### Repositório criado para o curso "Posicionando elementos com Flexbox em CSS", da DIO.
+### Repositório criado para o curso "Posicionando elementos com Flexbox em CSS", da [Digital Innovation One](https://www.dio.me/).
 
 
 ### <<< Anotações >>> ✍ 
@@ -8,9 +8,9 @@
 
 ## Hierarquia
 
-### Flex container - contém flex item's "filhos"
+### Flex container - contém elementos filhos denominados flex item's
 
- - **Flex item** e/ou **flex container** 2 (visto que também pode conter outros "filhos");
+ - **Flex item** e/ou **flex container** 2 (visto que também pode conter outros elementos filhos);
 
     - Flex item 1.1
 
