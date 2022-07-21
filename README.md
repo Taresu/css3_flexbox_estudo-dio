@@ -1,12 +1,16 @@
 # Estudo de CSS3 - Flexbox
 
-Repositório criado para o curso "Posicionando elementos com Flexbox em CSS", da DIO.
+### Repositório criado para o curso "Posicionando elementos com Flexbox em CSS", da DIO.
+
+
+### <<< Anotações >>> ✍ 
+
 
 ## Hierarquia
 
-- #### Flex container **- contém flex item's "filhos" **
+### Flex container - contém flex item's "filhos"
 
-- - **Flex item** e/ou **flex container** 2 (visto que também pode conter outros "filhos");
+ - **Flex item** e/ou **flex container** 2 (visto que também pode conter outros "filhos");
 
     - Flex item 1.1
 
@@ -22,13 +26,10 @@ Repositório criado para o curso "Posicionando elementos com Flexbox em CSS", da
 
   - **Flex item** n;
 
-- 
 
-- # Propriedades (+  comuns)
+## Propriedades (+  comuns)
 
-- 
-
-- ## Dos Flex Container's:
+### Container's:
 
 - **display**: inicializador do flexbox;
 - **flex-direction**: direcionamento dos ITENS, como linha ou coluna;
@@ -38,9 +39,7 @@ Repositório criado para o curso "Posicionando elementos com Flexbox em CSS", da
 - **align-items**: alinhamento dos ITENS de acordo com o eixo do CONTAINER;
 - **align-content**: alinhamento das linhas dos CONTAINERS.
 
-
-
-## Dos Flex Item's:
+### Flex Item's:
 
 - **flex-grow** (fator de crescimento);
 - **flex-basis** (tamanho inicial do item     antes da distribuição);
