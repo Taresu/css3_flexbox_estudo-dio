@@ -1,5 +1,6 @@
 # Estudo de CSS3 - Flexbox
 
+<<<<<<< HEAD
 Repositório criado para o curso "Posicionando elementos com Flexbox em CSS", da DIO.
 
 ## Hierarquia
@@ -51,3 +52,6 @@ Repositório criado para o curso "Posicionando elementos com Flexbox em CSS", da
 
 
 
+=======
+Repositório criado para o curso "Posicionando elementos com Flexbox em CSS", da Digital Innovation One (DIO).
+>>>>>>> 55099d4f752ff8dc67951f0b0a107a0735097c95
