@@ -39,7 +39,7 @@
 - **align-items** (alinhamento dos ITENS de acordo com o eixo do CONTAINER);
 - **align-content** (alinhamento das linhas dos CONTAINERS).
 
-### Flex Item's:
+### Item's:
 
 - **flex-grow** (fator de crescimento);
 - **flex-basis** (tamanho inicial do item antes da distribuição);
